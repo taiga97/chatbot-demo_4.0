@@ -1,5 +1,3 @@
-<img src="resource/fig/logo_松尾研究所.jpeg" alt="alt text" width="600"/>
-
 # 0. 本課題について
 
 本課題では、LLM のアプリ開発を行なっていただきます。
