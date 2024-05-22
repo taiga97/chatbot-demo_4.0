@@ -1,1 +1,17 @@
 chainlit==1.0.200
+langchain
+openai
+langchain-community
+PyMuPDF
+tiktoken
+python-dotenv
+spacy
+chromadb
+langchain-openai
+### spacy download ja_core_news_sm
+docx2txt
+### なぜいるの？
+unstructured
+networkx
+pandas
+openpyxl
